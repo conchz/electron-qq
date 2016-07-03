@@ -3,6 +3,7 @@ language: node_js
 node_js:
   - 4
 install:
+  - npm install -g npm@next
   - npm install -g phantomjs-prebuilt
   - npm install
 script:
