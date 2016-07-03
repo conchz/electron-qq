@@ -1,0 +1,15 @@
+{
+  "name": "Electron QQ",
+  "version": "0.1.0",
+  "main": "background.js",
+  "dependencies": {
+    "highcharts": "^4.2.5",
+    "material-design-icons": "^2.2.3",
+    "material-design-lite": "^1.1.3"
+  },
+  "appManifest": {
+    "productName": "Electron QQ",
+    "bundleId": "com.github.lavenderx.qq",
+    "version": "1.0.0"
+  }
+}
